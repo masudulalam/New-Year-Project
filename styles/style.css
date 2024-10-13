@@ -17,10 +17,12 @@ body{
 
 /* Subscribe Newsletter Section */
 .subscriber-newsletter-section{
-    background: lightgray;
+    background: #734444;
     margin: 100px 0;
     text-align: center;
     padding: 90px 0;
+    color: #fff;
+    border-top: 8px solid mediumseagreen;
 }
 
 .subscriber-newsletter-title{
