@@ -15,6 +15,35 @@ body{
     margin: 0 auto;
 }
 
+/* Subscribe Newsletter Section */
+.subscriber-newsletter-section{
+    background: lightgray;
+    margin: 100px 0;
+    text-align: center;
+    padding: 90px 0;
+}
+
+.subscriber-newsletter-title{
+    margin: 30px 0;
+}
+
+input[type="email"] {
+    width: 648px;
+    height: 72px;
+    border-radius: 50px;
+    margin-top: 40px;
+    padding: 0 40px;
+    font-size: 20px;
+}
+input[type="submit"] {
+    width: 210px;
+    height: 72px;
+    border-radius: 50px;
+    background: mediumseagreen;
+    color: #fff;
+    font-size: 20px;
+}
+
 
 /* Footer Styles */
 .footer-section{
